@@ -16,7 +16,7 @@ A Git Repository icon in the style of Windows 10 folder icons. I may also eventu
  - folder.ico extracted from Windows 10's shell32.dll
  - Git logo pulled from [Git's official site](https://www.git-scm.com/downloads/logos).
  
- ## License
- 
- [Creative Commons Attribution 3.0 Unported License](https://www.creativecommons.org/licenses/by/3.0/)
+## License
+
+[Creative Commons Attribution 3.0 Unported License](https://www.creativecommons.org/licenses/by/3.0/)
  
